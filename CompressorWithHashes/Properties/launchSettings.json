@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CompressorWithHashes": {
+      "commandName": "Project",
+      "commandLineArgs": "-r 2.0.12950 2.0.13017 3.0.13139"
+    }
+  }
+}
